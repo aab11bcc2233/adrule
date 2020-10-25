@@ -1,0 +1,20 @@
+# 抖音相关 start
+||douyin.com^
+||douyincdn.com^
+||toutiao.com^
+||snssdk.com^
+||ixigua.com^
+||amemv.com^
+||bytedance.net^
+||bdurl.net^
+||yximgs.com^
+||iesdouyin.com^
+||bytecdn.cn^
+||gifshow.com^
+||pstatp.com^
+||ixiguavideo.com^
+||huoshan.com^
+||lan^
+# 封面图片
+# ||byteimg.com^
+# 抖音相关 end

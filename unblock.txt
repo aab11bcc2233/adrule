@@ -1,0 +1,5 @@
+# 放行淘宝京东，要不会误拦截，造成打不开
+@@||g.live.com^$important
+@@||s.click.taobao.com^$important
+@@||ipassport.ele.me^$important
+@@||wl.jd.com^$important
