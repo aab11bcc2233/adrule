@@ -1,0 +1,32 @@
+||t7z.cupid.ptqy.gitv.tv^$important
+@@||g.live.com^$important
+@@||s.click.taobao.com^$important
+@@||ipassport.ele.me^$important
+@@||wl.jd.com^$important
+||broker.miwifi.com^$important
+||tracker.ai.xiaomi.com^$important
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+# 抖音相关 start
+||douyin.com^
+||douyincdn.com^
+||toutiao.com^
+||snssdk.com^
+||ixigua.com^
+||amemv.com^
+||bytedance.net^
+||bdurl.net^
+||yximgs.com^
+||iesdouyin.com^
+||bytecdn.cn^
+||gifshow.com^
+||pstatp.com^
+||ixiguavideo.com^
+||huoshan.com^
+||lan^
+# 封面图片
+# ||byteimg.com^
+# 抖音相关 end
