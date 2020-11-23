@@ -7,3 +7,4 @@
 ||youtube.com/pagead/adview
 ||youtube.com/pcs/activeview
 ||youtube.com/get_video_info
+||broker.miwifi.com
