@@ -15,6 +15,7 @@
 ||ixiguavideo.com^
 ||huoshan.com^
 ||lan^
+||rtc-test.byted.org^
 # 封面图片
 # ||byteimg.com^
 # 抖音相关 end
