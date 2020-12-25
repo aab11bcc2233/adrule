@@ -14,9 +14,10 @@
 ||pstatp.com^
 ||ixiguavideo.com^
 ||huoshan.com^
-||lan^
+#||lan^
 ||rtc-test.byted.org^
 ||v6.365yg.com^
 # 封面图片
 # ||byteimg.com^
 # 抖音相关 end
+||douyinvod.com^
